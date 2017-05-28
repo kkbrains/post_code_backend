@@ -1,0 +1,30 @@
+{
+  "name": "post_code_backend",
+  "version": "1.0.0",
+  "description": "Backend App for reteriving post code Add",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkbrains/post_code_backend.git"
+  },
+  "author": "Kishore Kumar Unnikrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkbrains/post_code_backend/issues"
+  },
+  "homepage": "https://github.com/kkbrains/post_code_backend#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "body-parser": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "body-parser": "*",
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5",
+    "dotenv": "^1.2.0"
+  }
+}
